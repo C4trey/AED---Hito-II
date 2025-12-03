@@ -1,2 +1,1 @@
-# AED---Hito-II
-hito II de aed xd
+Repositorio del grupo 6 - Segment Tree
